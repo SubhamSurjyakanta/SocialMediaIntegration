@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724703897891",
+    "project_id": "fir-authall-c7cc6",
+    "storage_bucket": "fir-authall-c7cc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724703897891:android:a1ab546ab23a01bd32c496",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724703897891-bcs4kmcn5sa4d5kgicquuegtcpa42fl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3XX5gv_Ys9g0gm3VtR729sdPuJw2gC_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724703897891-bcs4kmcn5sa4d5kgicquuegtcpa42fl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
